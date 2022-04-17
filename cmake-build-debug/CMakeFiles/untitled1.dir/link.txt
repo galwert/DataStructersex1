@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled1.dir/main.cpp.o CMakeFiles/untitled1.dir/BinarySearchTree.cpp.o CMakeFiles/untitled1.dir/Group.cpp.o CMakeFiles/untitled1.dir/library.cpp.o CMakeFiles/untitled1.dir/player.cpp.o CMakeFiles/untitled1.dir/SquidGame.cpp.o  -o untitled1 

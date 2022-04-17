@@ -1,0 +1,90 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/BinarySearchTree.cpp
+BinarySearchTree.h
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/BinarySearchTree.h
+
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/BinarySearchTree.h
+cstdlib
+-
+algorithm
+-
+ctgmath
+-
+iostream
+-
+memory
+-
+player.h
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/player.h
+
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/Group.cpp
+group.h
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/group.h
+
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/SquidGame.cpp
+SquidGame.h
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/SquidGame.h
+iostream
+-
+memory
+-
+
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/SquidGame.h
+group.h
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/group.h
+library.h
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/library.h
+
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/group.h
+player.h
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/player.h
+BinarySearchTree.h
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/BinarySearchTree.h
+memory
+-
+iostream
+-
+
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/library.cpp
+SquidGame.h
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/SquidGame.h
+library.h
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/library.h
+
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/library.h
+
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/main.cpp
+assert.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+library.h
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/library.h
+iostream
+-
+
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/player.cpp
+player.h
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/player.h
+
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/player.h
+BinarySearchTree.h
+/mnt/c/Users/galwe/OneDrive/Desktop/technion/סמסטר ד/מבני נתונים/wet1/BinarySearchTree.h
+memory
+-
+algorithm
+-
+iostream
+-
+
